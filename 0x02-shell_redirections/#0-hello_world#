@@ -1,6 +1,7 @@
+case 
 #!/bin/bash
 <<<<<<< HEAD
-echo "\"(Ôo)'"
+echo "Hello World"
 =======
-echo "\"(Ôo)'"
+echo "Hello,World"
 >>>>>>> e04dc0857f588c8e3f4cf24ea9cd6320d666b509
